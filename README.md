@@ -71,7 +71,6 @@ that push the boundaries of what technology can achieve.
 
 ![MuhammadTalhasami_snake_contribution](https://github.com/muhammadtalhasami/muhammadtalhasami/raw/main/dist/github-snake-dark.svg)
 
-</br></br>
-<a href="https://github.com/muhammadtalhasami">
+
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
